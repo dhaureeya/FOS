@@ -1,0 +1,28 @@
+.cashier{
+    /* background-color: #d2a993; */
+    /* background-color: #bbb6a5; */
+    background-color: #F6EDE9;
+    height: 100vh;
+}
+.cashtables{
+        width: 460px;
+        margin-left: 9px;
+        font-size: 15px;
+        line-height: 3rem;
+        padding-left: 2px;
+        /* text-align: center; */
+
+}
+th{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn-cashier{
+    margin-bottom: 0px;
+}
+.tab1{
+    padding: 1%;
+}
+.payment-methods{
+    display: grid;
+}

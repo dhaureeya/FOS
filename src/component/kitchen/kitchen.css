@@ -1,0 +1,117 @@
+*{
+    margin-top: 0 !important;
+    padding: 0;
+    box-sizing: border-box;  
+  } 
+.kitchen{
+    /* background-color:#d2a993; */
+    /* background-color: #bbb6a5; */
+    background-color: #F6EDE9;
+    height: 100vh;
+    margin-top: 5rem;
+
+    } 
+    .heading{
+        padding: 5rem;
+        animation-delay: 1s;
+    }
+    .tables{
+        /* border: 2px solid black; */
+        width: 450px;
+        margin-left: 9px;
+        font-size: 15px;
+        /* height: 150px; */
+        padding-left: 2px;
+        text-align: center;
+        /* height: 200px; */
+        /* justify-content: center;  */
+        line-height: 3rem;
+      
+    }
+        
+    th{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .tablehead{
+        font-size: 25px;
+        font-weight: bold;
+        padding-left: 70px;
+        padding-bottom: 2px;
+        text-align:left;
+        
+    }
+     .tab1{
+        border: 3px solid gray;
+        width: fit-content;
+        box-shadow: 0px 3px 5px #333333;
+        margin-left: 70px;
+    } 
+    .primaryBtn{
+        background-color: lightgray;
+        color: black;
+        border-radius: 0px;
+        border: none;
+        margin-top: 5px;
+        padding: 10px;
+        /* width: 60px; */
+        cursor: pointer;
+        display: flex;
+    }
+    .btn-kitchen{
+        margin-left: 15px;
+    }
+    .kitchen {
+        padding: 20px;
+        /* background-color: #f8f9fa; */
+      }
+      
+      /* .menu {
+        margin: 20px auto;
+        max-width: 800px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+      } */
+      
+      .heading {
+        text-align: center;
+        color: #343a40;
+      }
+      
+      .tablehead {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      
+      .tables {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+      
+      .tables th, .tables td {
+        padding: 10px;
+        /* border: 1px solid #dee2e6; */
+        text-align: left;
+      }
+      
+      .btn-kitchen {
+        text-align: center;
+        margin-top: 20px;
+      }
+      
+      .primaryBtn {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 4px;
+        margin-left: 10px;
+      }
+      
+
+    
